@@ -1,0 +1,60 @@
+
+.dvi-icon {
+    background-image: url("../images/unhcr-image.png") !important;
+}
+/**
+.dropdown-menu {
+    transform: translate3d(5px, 35px, 0px) !important;
+}
+*/
+
+.bg-lightly-gray {
+    background-color: #f7f4f4 !important;
+}
+
+.bg-lightly-blue {
+    background-color: #F2F9FA !important;
+}
+
+.bg-lightly-white {
+    background-color: #ffffff !important;
+}
+
+.bg-top-nav-gray {
+    background-color: #ffffff !important;
+}
+
+.text-300-truncate {display: block; width: 300px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;}
+.text-280-truncate {display: block; width: 280px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;}
+.text-260-truncate {display: block; width: 260px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;}
+.text-250-truncate {display: block; width: 250px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;}
+.text-200-truncate {display: block; width: 200px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;}
+.text-150-truncate {display: block; width: 150px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;}
+.text-100-truncate {display: block; width: 100px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;}
+
+.navbar-center {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+@media (min-width: 768px) {
+    .navbar-center {
+        /**float: none;*/
+        margin-left: 20%;
+    }
+}
+
+.navbar .divider-vertical {
+    height: 40px;
+    margin: 0 9px;
+    border-left: 1px solid #f2f2f2;
+    border-right: 1px solid #ffffff;
+}
+
+.vertical-divider {
+    border-left: 2px solid #000000;
+    height: 100%;
+    padding-left: 2em;
+    padding-right: 5em;
+}

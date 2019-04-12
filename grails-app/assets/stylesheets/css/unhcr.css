@@ -1,0 +1,6 @@
+.page-container.pb-20{
+    background: url("../../images/backgrounds/breadcrumb.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+}
